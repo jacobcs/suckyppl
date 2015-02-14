@@ -1,0 +1,27 @@
+{
+  "name": "suckyppl",
+  "version": "1.0.0",
+  "description": "suckyppl.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobcs/suckyppl"
+  },
+  "keywords": [
+    "sucky",
+    "suckyppl",
+    "people"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobcs/suckyppl/issues"
+  },
+  "homepage": "https://github.com/jacobcs/suckyppl",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
