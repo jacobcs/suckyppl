@@ -23,5 +23,8 @@
   "homepage": "https://github.com/jacobcs/suckyppl",
   "devDependencies": {
     "gulp": "^3.8.11"
+  },
+  "engines": {
+    "node": "0.12.x"
   }
 }
