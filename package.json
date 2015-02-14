@@ -29,6 +29,7 @@
     "node": "0.10.x"
   },
   "dependencies": {
+    "config": "^1.11.0",
     "hapi": "^8.2.0"
   }
 }
